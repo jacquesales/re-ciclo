@@ -3,7 +3,8 @@
 ![](https://imgur.com/6h9GaZM.png)
 
 
-Projeto acadêmico referente a ODS12 - Consumo e produção responsáveis - realizado pela Squad 07 com apoio da Recode Pro. 
+Projeto acadêmico referente a ODS12 - Consumo e produção responsáveis - 
+realizado pela Squad 07 com apoio da Recode Pro. 
 
 ###Stacks
 
