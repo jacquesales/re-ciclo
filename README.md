@@ -6,7 +6,7 @@
 Projeto acadêmico referente a ODS12 - Consumo e produção responsáveis - 
 realizado pela Squad 07 com apoio da Recode Pro. 
 
-###Stacks
+### Stacks
 
 + Linguagem/Biblioteca/Framework FRONT-END:
 	+ HTML;
@@ -18,7 +18,7 @@ realizado pela Squad 07 com apoio da Recode Pro.
 	+ PHP;
 	+ SQL;
 
-###Development
+### Development
 
 `$ git clone`
 
